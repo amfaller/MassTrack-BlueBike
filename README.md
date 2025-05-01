@@ -8,7 +8,7 @@ MassTrack is a privacy project developed across two seminars at Columbia Univers
 
 This repository contains the Jupyter notebook corresponding to **COMS E6998**, focusing on examining privacy vulnerabilities in publicly-available BlueBike data -- specifically, analyzing pseudo-identifiers which may compromise user privacy.
 
-The Topics in SwE portion of MassTrack can be found here: [https://github.com/amfaller/MassTrack-BlueBike](https://github.com/amfaller/MassTrack-BlueBike)
+The Topics in SwE portion of MassTrack can be found here: [https://github.com/amfaller/MassTrack-MBTA](https://github.com/amfaller/MassTrack-MBTA)
 
 
 ## Threat Model
